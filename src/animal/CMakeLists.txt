@@ -1,0 +1,1 @@
+add_library(AnimalLib OBJECT dog.cpp)
